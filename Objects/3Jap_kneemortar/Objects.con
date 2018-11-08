@@ -1,0 +1,33 @@
+ObjectTemplate.create Kit 3Jap_kneemortar
+ObjectTemplate.setType AT
+ObjectTemplate.setKitTeam 1
+ObjectTemplate.geometry Kit_KneeMortar
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Jap_caps
+ObjectTemplate.setRandomGeometries 4
+ObjectTemplate.addTemplate BacpacBig_jap_Tojo
+ObjectTemplate.addTemplate Jap_Tojo_Hip_Pack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_at_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_at_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_axisKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_Nambu.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_binoculars_observe.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_kneemortarHE.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_kneemortarHEAT.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_kneemortarFlare.tga"
+
+ObjectTemplate.setKitIcon 2 "kits/icon_kneemortarjap_selected.tga"
+ObjectTemplate.setKitName 2 "GRENADIER"
+ObjectTemplate.setKitActiveName 2 "ACTIVE GRENADIER"
+
+ObjectTemplate.addTemplate Binoculars_RangeFind3
+ObjectTemplate.addTemplate Knife_Type30Bayonet
+ObjectTemplate.addTemplate Nambu
+ObjectTemplate.addTemplate Mortar-HE_Support
+ObjectTemplate.addTemplate Mortar-HEAT_Support
+ObjectTemplate.addTemplate Mortar-Flare_Support
+
+ObjectTemplate.aiTemplate  AT

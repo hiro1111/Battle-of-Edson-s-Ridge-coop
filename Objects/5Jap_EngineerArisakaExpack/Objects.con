@@ -1,0 +1,34 @@
+ObjectTemplate.create Kit 5Jap_EngineerArisakaExpack
+ObjectTemplate.setType Engineer
+ObjectTemplate.setKitTeam 1
+ObjectTemplate.geometry Kit_Japanese_ArisakaCar
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Tanker_cap
+rem ObjectTemplate.addTemplate Jap_Tojo_Hip_Pack
+rem ObjectTemplate.addTemplate BacpacBig_jap_Tojo_met
+rem ObjectTemplate.addTemplate BacpacBig_jap_Tojo
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_engineer_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_engineer_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_axisKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+rem ObjectTemplate.addWeaponIcon "Weapon/Icon_nambu.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_ArisakaCar.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_turtlemine.dds"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+
+
+ObjectTemplate.setKitIcon 4 "kits/Icon_ArisakaJapEngineer_selected.tga"
+ObjectTemplate.setKitName 4 "RESPAWN_ENGINEER"
+ObjectTemplate.setKitActiveName 4 "RESPAWN_ACTIVE_ENGINEER"
+
+ObjectTemplate.addTemplate ArisakaCarbine
+rem ObjectTemplate.addTemplate Nambu
+ObjectTemplate.addTemplate Type99MagneticATGrenade
+ObjectTemplate.addTemplate Knife_Type30Bayonet
+ObjectTemplate.addTemplate scold
+
+ObjectTemplate.aiTemplate  Engineer

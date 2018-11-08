@@ -1,0 +1,98 @@
+Rem
+Rem PreCache Objects
+Rem
+
+Object.active __BF_NONE__
+Object.create 1Jap_OfficerMp18
+Object.delete
+Object.create 5Jap_EngineerArisakaExpack
+Object.delete
+Object.create 2USMC_AssaultSpringfield
+Object.delete
+Object.create Nambu
+Object.delete
+Object.create Stationary_BrowningSP66
+Object.delete
+Object.create Stationary_BrowningSP67
+Object.delete
+Object.create Stationary_BrowningSP68
+Object.delete
+Object.create Stationary_BrowningSP69
+Object.delete
+Object.create Stationary_BrowningSP72
+Object.delete
+Object.create Stationary_BrowningSP73
+Object.delete
+Object.create Stationary_BrowningSP74
+Object.delete
+Object.create Stationary_BrowningSP79
+Object.delete
+Object.create ArisakaCarbine
+Object.delete
+Object.create US_MedicM1Carabine
+Object.delete
+Object.create Bar1918A1Semi
+Object.delete
+Object.create Bar1918A1Full
+Object.delete
+Object.create BinocularsProjectile
+Object.delete
+Object.create Colt
+Object.delete
+Object.create GarandGrenade
+Object.delete
+Object.create GrenadeAllies
+Object.delete
+Object.create GrenadeAlliesProjectile
+Object.delete
+Object.create LandmineProjectile
+Object.delete
+Object.create M1Garand
+Object.delete
+Object.create M1GarandBay
+Object.delete
+Object.create MedPack
+Object.delete
+Object.create Springfield03
+Object.delete
+Object.create Springfield03A3
+Object.delete
+Object.create Springfield03Bay
+Object.delete
+Object.create Thompson
+Object.delete
+Object.create Tommygun
+Object.delete
+Object.create Type99MagneticATGrenade
+Object.delete
+Object.create Type99TurtleProjectile
+Object.delete
+Object.create 1Us_AssaultGarandP
+Object.delete
+Object.create 1Us_ClosequartersThompson
+Object.delete
+Object.create 1USMC_OfficerTommygun
+Object.delete
+Object.create 4USMC_SupportBAR
+Object.delete
+Object.create 6USMC_SniperSpringfield03
+Object.delete
+Object.create MultiPlayerFreeCamera
+Object.delete
+Object.create USSoldier
+Object.delete
+Object.create BrowningTripod
+Object.delete
+Object.create 75mmM2A1
+Object.delete
+Object.create AxisBase
+Object.delete
+Object.create Axisbase2
+Object.delete
+Object.create AlliedBase
+Object.delete
+Object.create allied_flag2
+Object.delete
+Object.create allied_flag
+Object.delete
+Object.active __BF_NONE__

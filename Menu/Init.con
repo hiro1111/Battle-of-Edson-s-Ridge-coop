@@ -1,0 +1,12 @@
+rem *********************************************
+rem Created by Battlecraft 1942.  Copyright (c)2003,2004 Digital Illusions CE
+rem *********************************************
+Game.setLocalized 1
+
+game.setLoadPicture ../../bf1942/levels/Battle_of_Edson_s_Ridge/Menu/Load.tga
+
+game.setMultiplayerBriefingObjectives "totugekiiiiiiiiiiii!!!"
+
+game.setServerInfoIcon serverInfo_Blue.dds
+game.setMapId "FHSW"
+game.setBackgroundMusic "music/Battle_of_Edson_s_Ridge.bik"

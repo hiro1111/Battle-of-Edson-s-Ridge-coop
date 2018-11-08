@@ -1,0 +1,27 @@
+ObjectTemplate.create Kit  US_MedicM1Carabine
+ObjectTemplate.setType Medic
+ObjectTemplate.setKitTeam 2
+ObjectTemplate.geometry  MedPack
+rem Kit_Allies_Medic
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Medic_helm_us
+ObjectTemplate.addTemplate US_Medic_hippack
+ObjectTemplate.addTemplate US_Britt_Bacpac
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_medic_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_medic_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_medpack.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_m1917_revolver.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+
+ObjectTemplate.setKitIcon 5 "kits/Icon_medic_allies_selected.tga"
+ObjectTemplate.setKitName 5 "RESPAWN_MEDIC"
+ObjectTemplate.setKitActiveName 5 "RESPAWN_ACTIVE_MEDIC"
+
+ObjectTemplate.addTemplate M1917_revolver
+ObjectTemplate.addTemplate MedPack
+
+ObjectTemplate.aitemplate Medic
+

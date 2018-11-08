@@ -1,0 +1,130 @@
+rem SoldierSpawns.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\FHSW\bf1942\levels\Battle_of_Edson_s_Ridge/conquest/SoldierSpawns.con)
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn1  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn1
+Object.absolutePosition 483.56/38.93/295.75
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn2  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn2
+Object.absolutePosition 457.21/39.95/301.51
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn3  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn3
+Object.absolutePosition 471.08/39.51/299.03
+Object.rotation 0.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn4  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn4
+Object.absolutePosition 463.88/39.71/296.31
+Object.rotation 0/0/0
+
+rem ----------------------------------------- 
+rem ---  AxisBase_Spawn5  ---
+rem ----------------------------------------- 
+Object.create AxisBase_Spawn5
+Object.absolutePosition 477.01/39.71/297.90
+Object.rotation 0/0/0
+
+rem ----------------------------------------- 
+rem ---  Axisbase2_Spawn1  ---
+rem ----------------------------------------- 
+Object.create Axisbase2_Spawn1
+Object.absolutePosition 317.79/33.80/429.96
+Object.rotation 54.35/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axisbase2_Spawn2  ---
+rem ----------------------------------------- 
+Object.create Axisbase2_Spawn2
+Object.absolutePosition 317.80/33.70/419.64
+Object.rotation 90/0/0
+
+rem ----------------------------------------- 
+rem ---  Axisbase2_Spawn3  ---
+rem ----------------------------------------- 
+Object.create Axisbase2_Spawn3
+Object.absolutePosition 320.78/33.12/404.27
+Object.rotation 55.07/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  Axisbase2_Spawn4  ---
+rem ----------------------------------------- 
+Object.create Axisbase2_Spawn4
+Object.absolutePosition 322.37/34.44/425.48
+Object.rotation 90/0/0
+
+rem ----------------------------------------- 
+rem ---  Axisbase2_Spawn5  ---
+rem ----------------------------------------- 
+Object.create Axisbase2_Spawn5
+Object.absolutePosition 318.50/33.73/412.18
+Object.rotation 60/0/0
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn1  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn1
+Object.absolutePosition 477.65/57.26/505.15
+Object.rotation 180.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn2  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn2
+Object.absolutePosition 486.08/58.15/497.47
+Object.rotation 190.00/0.00/0.00
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn3  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn3
+Object.absolutePosition 486.31/56.73/505.61
+Object.rotation -135/0/0
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn4  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn4
+Object.absolutePosition 481.41/56.37/509.67
+Object.rotation 180/0/0
+
+rem ----------------------------------------- 
+rem ---  AlliedBase_Spawn5  ---
+rem ----------------------------------------- 
+Object.create AlliedBase_Spawn5
+Object.absolutePosition 471.65/56.78/507.94
+Object.rotation 180/0/0
+
+
+Object.create AlliedBase_Spawn6
+Object.absolutePosition 478.65/57.26/505.15
+Object.rotation 180.00/0.00/0.00
+
+Object.create AlliedBase_Spawn7
+Object.absolutePosition 487.08/58.15/497.47
+Object.rotation 190.00/0.00/0.00
+
+Object.create AlliedBase_Spawn8
+Object.absolutePosition 487.31/56.73/505.61
+Object.rotation -135/0/0
+
+Object.create AlliedBase_Spawn9
+Object.absolutePosition 482.41/56.37/509.67
+Object.rotation 180/0/0
+
+Object.create AlliedBase_Spawn10
+Object.absolutePosition 472.65/56.78/507.94
+Object.rotation 180/0/0
+
+rem EndOfFile

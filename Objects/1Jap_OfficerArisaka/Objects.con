@@ -1,0 +1,31 @@
+ObjectTemplate.create Kit 1Jap_OfficerArisaka
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 1
+ObjectTemplate.geometry Kit_Japanese_ArisakaCar
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+
+ObjectTemplate.addTemplate Jap_caps
+ObjectTemplate.setRandomGeometries 6
+rem ObjectTemplate.addTemplate Jap_Officers_hip_packs
+rem ObjectTemplate.setRandomGeometries 2
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_assault_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_assault_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_Katana.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_nambu.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_ArisakaCar.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+
+ObjectTemplate.setKitIcon 0 "kits/Icon_ArisakaJap_selected.tga"
+ObjectTemplate.setKitName 0 "OFFICER"
+ObjectTemplate.setKitActiveName 0 "ACTIVE OFFICERS"
+
+ObjectTemplate.addTemplate ArisakaCarbine
+ObjectTemplate.addTemplate RandomJPOfficerPistol
+ObjectTemplate.setRandomGeometries 6
+ObjectTemplate.addTemplate Katana
+ObjectTemplate.addTemplate scold
+
+ObjectTemplate.aiTemplate  Assault

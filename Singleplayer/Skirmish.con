@@ -1,0 +1,6 @@
+console.useRelativePaths 0
+
+run bf1942/game/common/Americannames
+run bf1942/game/common/Japanesenames
+
+console.useRelativePaths 1

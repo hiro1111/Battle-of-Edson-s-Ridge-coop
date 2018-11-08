@@ -1,0 +1,4 @@
+ObjectTemplate.create SimpleObject RadioTable
+ObjectTemplate.geometry RadioTable_m1
+ObjectTemplate.setHasCollisionPhysics 1
+objectTemplate.cullRadiusScale 3.0

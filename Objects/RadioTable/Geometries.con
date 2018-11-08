@@ -1,0 +1,6 @@
+GeometryTemplate.create StandardMesh RadioTable_m1
+GeometryTemplate.file USRadioTable_m1
+GeometryTemplate.setLodDistance 0 0
+GeometryTemplate.setLodDistance 1 20
+GeometryTemplate.setLodDistance 2 60
+GeometryTemplate.setLodDistance 3 100

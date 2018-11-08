@@ -1,0 +1,11 @@
+#templateLevel HIGH
+
+	#include High/Bugle.ssc
+	
+#templateLevel MEDIUM
+
+	#include Mid/Bugle.ssc
+	
+#templateLevel LOW
+
+	#include Low/Bugle.ssc

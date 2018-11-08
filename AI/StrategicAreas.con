@@ -1,0 +1,46 @@
+rem *** Create strategic areas ***
+aiStrategicArea.create alliedflag1 473/398 476/401 200 
+aiStrategicArea.create alliedbase 473/485 476/488 200 
+aiStrategicArea.create alliedflag2 409/440 412/443 200
+rem aiStrategicArea.create axisbase1 460/283 465/288 50
+rem aiStrategicArea.create axisbase2 306/402 311/407 50 
+
+beginrem
+aiStrategicArea.setActive axisbase1
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addNeighbour alliedflag1
+aiStrategicArea.setSide 0
+
+aiStrategicArea.setActive axisbase2
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addNeighbour alliedflag2
+aiStrategicArea.setSide 0
+endrem
+
+aiStrategicArea.setActive alliedflag1
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addNeighbour alliedbase
+rem aiStrategicArea.addNeighbour axisbase1
+AIStrategicArea.setOrderPosition Infantry 476/401
+AIStrategicArea.setOrderPosition Tank 476/401
+aiStrategicArea.setSide 2
+
+aiStrategicArea.setActive alliedbase
+aiStrategicArea.addObjectTypeFlag Base
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addNeighbour alliedflag1
+aiStrategicArea.addNeighbour alliedflag2
+AIStrategicArea.setOrderPosition Infantry 475/468
+AIStrategicArea.setOrderPosition Tank 475/468
+aiStrategicArea.setSide 2
+
+aiStrategicArea.setActive alliedflag2
+aiStrategicArea.addObjectTypeFlag ControlPoint
+aiStrategicArea.addNeighbour alliedbase
+rem aiStrategicArea.addNeighbour axisbase2
+AIStrategicArea.setOrderPosition Infantry 412/443
+AIStrategicArea.setOrderPosition Tank 412/443
+aiStrategicArea.setSide 2
+
+
+

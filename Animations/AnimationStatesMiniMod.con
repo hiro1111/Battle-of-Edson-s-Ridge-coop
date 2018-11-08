@@ -1,0 +1,84 @@
+AnimationStateMachine.setActiveState Lb_RunForwardArisaka
+AnimationStateMachine.setSpeed 1.15 1.15 1.15
+AnimationStateMachine.setActiveState Lb_RunBackwardArisaka
+AnimationStateMachine.setSpeed 1.15 1.15 1.15
+
+AnimationStateMachine.setActiveState Lb_RunForwardArisaka38
+AnimationStateMachine.setSpeed 1.15 1.15 1.15
+AnimationStateMachine.setActiveState Lb_RunBackwardArisaka38
+AnimationStateMachine.setSpeed 1.15 1.15 1.15
+
+AnimationStateMachine.setActiveState Lb_RunForwardArisakaBay
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+AnimationStateMachine.setActiveState Lb_RunBackwardArisakaBay
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+
+AnimationStateMachine.setActiveState Lb_RunForwardArisaka38Bay
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+AnimationStateMachine.setActiveState Lb_RunBackwardArisaka38Bay
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+
+AnimationStateMachine.setActiveState Lb_RunForwardkatana
+AnimationStateMachine.setSpeed 1.25 1.25 1.25
+AnimationStateMachine.setActiveState Lb_RunBackwardkatana
+AnimationStateMachine.setSpeed 1.25 1.25 1.25
+
+AnimationStateMachine.setActiveState Lb_RunForwardRandomJPOfficerPistol1
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+AnimationStateMachine.setActiveState Lb_RunBackwardRandomJPOfficerPistol1
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+
+AnimationStateMachine.setActiveState Lb_RunForwardRandomJPOfficerPistol2
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+AnimationStateMachine.setActiveState Lb_RunBackwardRandomJPOfficerPistol2
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+
+AnimationStateMachine.setActiveState Lb_RunForwardRandomJPOfficerPistol3
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+AnimationStateMachine.setActiveState Lb_RunBackwardRandomJPOfficerPistol3
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+
+AnimationStateMachine.setActiveState Lb_RunForwardRandomJPOfficerPistol4
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+AnimationStateMachine.setActiveState Lb_RunBackwardRandomJPOfficerPistol4
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+
+AnimationStateMachine.setActiveState Lb_RunForwardRandomJPOfficerPistol5
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+AnimationStateMachine.setActiveState Lb_RunBackwardRandomJPOfficerPistol5
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+
+AnimationStateMachine.setActiveState Lb_RunForwardRandomJPOfficerPistol6
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+AnimationStateMachine.setActiveState Lb_RunBackwardRandomJPOfficerPistol6
+AnimationStateMachine.setSpeed 1.21 1.21 1.21
+
+AnimationStateMachine.setActiveState Lb_RunForwardType100SMG
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+AnimationStateMachine.setActiveState Lb_RunBackwardType100SMG
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+
+AnimationStateMachine.setActiveState Lb_RunForwardscold
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+AnimationStateMachine.setActiveState Lb_RunBackwardscold
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+
+AnimationStateMachine.setActiveState Lb_RunForwardType99MagneticATGrenade
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+AnimationStateMachine.setActiveState Lb_RunBackwardType99MagneticATGrenade
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+
+AnimationStateMachine.setActiveState Lb_RunForwardArisakaCarbine
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+AnimationStateMachine.setActiveState Lb_RunBackwardArisakaCarbine
+AnimationStateMachine.setSpeed 1.2 1.2 1.2
+
+AnimationStateMachine.setActiveState Lb_RunForwardKnife_Type30Bayonet
+AnimationStateMachine.setSpeed 1.25 1.25 1.25
+AnimationStateMachine.setActiveState Lb_RunBackwardKnife_Type30Bayonet
+AnimationStateMachine.setSpeed 1.25 1.25 1.25
+
+AnimationStateMachine.setActiveState Lb_RunForwardKnife_Type30Bayonet_ID2
+AnimationStateMachine.setSpeed 1.25 1.25 1.25
+AnimationStateMachine.setActiveState Lb_RunBackwardKnife_Type30Bayonet_ID2
+AnimationStateMachine.setSpeed 1.25 1.25 1.25

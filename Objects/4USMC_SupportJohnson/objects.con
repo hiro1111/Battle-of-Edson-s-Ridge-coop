@@ -1,0 +1,27 @@
+ObjectTemplate.create Kit 4USMC_SupportJohnson
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 2
+
+ObjectTemplate.geometry  Kit_Canadian_Assault
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Us_Helmet
+rem ObjectTemplate.setRandomGeometries 8
+ObjectTemplate.addTemplate US_Assault_BackPack
+ObjectTemplate.addTemplate US_Hip_Pack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_medic_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_medic_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_johnsonlmg.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+
+ObjectTemplate.setKitIcon 3 "kits/Icon_BARUS_selected.tga"
+ObjectTemplate.setKitName 3 "SUPPORT"
+ObjectTemplate.setKitActiveName 3 "ACTIVE SUPPORTS"	
+
+ObjectTemplate.addTemplate JohnsonLMG
+
+ObjectTemplate.aitemplate Assault

@@ -1,0 +1,34 @@
+rem ControlPoints.con created by Battlecraft 1942
+rem (C:\Program Files\EA GAMES\Battlefield 1942\Mods\FHSW\bf1942\levels\Battle_of_Edson_s_Ridge/conquest/ControlPoints.con)
+
+rem ----------------------------------------- 
+rem ---  AxisBase  ---
+rem ----------------------------------------- 
+Object.create AxisBase
+Object.absolutePosition 465.84/38.67/288.91
+
+rem ----------------------------------------- 
+rem ---  AlliedBase  ---
+rem ----------------------------------------- 
+Object.create AlliedBase
+Object.absolutePosition 475.45/58.88/488.08
+
+rem ----------------------------------------- 
+rem ---  Axisbase2  ---
+rem ----------------------------------------- 
+Object.create Axisbase2
+Object.absolutePosition 311.79/33.37/407.95
+
+rem ----------------------------------------- 
+rem ---  allied_flag2  ---
+rem ----------------------------------------- 
+Object.create allied_flag2
+Object.absolutePosition 412.87/44.11/444.24
+
+rem ----------------------------------------- 
+rem ---  allied_flag  ---
+rem ----------------------------------------- 
+Object.create allied_flag
+Object.absolutePosition 475.93/49.47/401.13
+
+rem EndOfFile

@@ -1,0 +1,36 @@
+ObjectTemplate.create Kit 1Jap_OfficerMp18
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 1
+ObjectTemplate.geometry Kit_Bomberspotter_m1
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+
+ObjectTemplate.addTemplate Jap_caps
+ObjectTemplate.setRandomGeometries 4
+rem ObjectTemplate.addTemplate Jap_Tojo_Officer_Hip_Pack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_assault_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_assault_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_Katana.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_Type100SMG.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_type10_signal_G1.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_binoculars.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_type10_signal_W1.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_type10_signal_W3.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_type10_signal_R1.tga"
+
+ObjectTemplate.setKitIcon 0 "kits/Icon_Type100SMGJapOfficer_selected.tga"
+ObjectTemplate.setKitName 0 "OFFICER"
+ObjectTemplate.setKitActiveName 0 "ACTIVE OFFICERS"
+
+ObjectTemplate.addTemplate Type100SMG
+ObjectTemplate.addTemplate Binoculars
+ObjectTemplate.addTemplate Katana
+ObjectTemplate.addTemplate type10_signal_Signal_W1
+ObjectTemplate.addTemplate type10_signal_Signal_W3
+ObjectTemplate.addTemplate type10_signal_Signal_R1
+ObjectTemplate.addTemplate type10_signal_Signal_G1
+
+ObjectTemplate.aiTemplate  Assault

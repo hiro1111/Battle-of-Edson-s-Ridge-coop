@@ -1,0 +1,29 @@
+ObjectTemplate.create Kit 2USMC_AssaultSpringfield
+ObjectTemplate.setType Assault
+ObjectTemplate.setKitTeam 2
+
+ObjectTemplate.setHealthBarIcon "Ingame/Healthbar_empty_assault_64x64.tga"
+ObjectTemplate.setHealthBarFullIcon "Ingame/Healthbar_full_assault_64x64.tga"
+ObjectTemplate.addWeaponIcon "Weapon/icon_Bayonet_Springfield03.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_alliesKnife.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_Springfield.tga"
+ObjectTemplate.addWeaponIcon "Weapon/Icon_noicon.tga"
+
+ObjectTemplate.setKitIcon 1 "kits/icon_Springfield03US_selected.tga"
+ObjectTemplate.setKitName 1 "RESPAWN_ASSAULT"
+ObjectTemplate.setKitActiveName 1 "RESPAWN_ACTIVE_ASSAULT"	
+
+ObjectTemplate.geometry Kit_springfield
+ObjectTemplate.setHasCollisionPhysics 1
+ObjectTemplate.networkableInfo KitInfo
+ObjectTemplate.addTemplate Us_Helmet
+rem ObjectTemplate.setRandomGeometries 8
+ObjectTemplate.addTemplate US_Assault_BackPack
+ObjectTemplate.addTemplate US_Hip_Pack
+ObjectTemplate.addTemplate Chutedisabler
+
+ObjectTemplate.addTemplate Springfield03
+ObjectTemplate.addTemplate Springfield03Bay
+ObjectTemplate.addTemplate Knife_M1Bayonet_ID2
+
+ObjectTemplate.aitemplate Assault
