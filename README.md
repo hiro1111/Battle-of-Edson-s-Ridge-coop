@@ -2,7 +2,8 @@
 [FHSWフォーラム](https://web.archive.org/web/20180731065151/http://imosababf1942.dip.jp/phpBB3/viewtopic.php?f=55&t=565)
 
 ### 概略
-Battle_of_Edson_s_RidgeをCOOP対応・微調整したMAPです
+Battle_of_Edson_s_RidgeをCOOP対応・微調整したMAPです  
+FHSWフォーラムが閉鎖したためこちらで公開しています
 
 ### 更新履歴  
 #### ver0.1
