@@ -1,0 +1,3 @@
+rem ===== COMPRESS = AXISKILLERS
+NetworkableInfo.createNewInfo botkabeInfo
+NetworkableInfo.setPredictionMode PMLinear
